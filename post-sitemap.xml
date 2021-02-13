@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://forgottenhealth.info/all-posts/</loc>
-		<lastmod>2021-01-18T10:06:19+00:00</lastmod>
+		<lastmod>2021-02-12T18:11:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://forgottenhealth.info/prepare-compost-from-kitchen-waste-within-week/</loc>
@@ -112,6 +112,30 @@
 		<image:image>
 			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/steel-shank.png</image:loc>
 			<image:caption><![CDATA[steel shank]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://forgottenhealth.info/5-factors-to-help-you-decide-what-type-of-water-purifier-do-i-need/</loc>
+		<lastmod>2021-02-12T18:11:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/glass-water-macro-shot_53876-65290.jpg</image:loc>
+			<image:caption><![CDATA[glass of purified water]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/tds_level_chart_WHO.png</image:loc>
+			<image:caption><![CDATA[WHO TDS level chart]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/sterilization_UV.png</image:loc>
+			<image:caption><![CDATA[UV membrane]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/filter.png</image:loc>
+			<image:caption><![CDATA[uf filter membrane]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/ultrafiltration_chart.png</image:loc>
+			<image:caption><![CDATA[ultrafiltration chart]]></image:caption>
 		</image:image>
 	</url>
 </urlset>

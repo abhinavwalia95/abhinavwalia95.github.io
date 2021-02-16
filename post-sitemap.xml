@@ -2,85 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://forgottenhealth.info/all-posts/</loc>
-		<lastmod>2021-02-12T18:11:21+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://forgottenhealth.info/prepare-compost-from-kitchen-waste-within-week/</loc>
-		<lastmod>2021-01-18T09:46:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/organic-trash-basket-near-recycle-logo_23-2147852635.jpg</image:loc>
-			<image:title><![CDATA[organic-trash-basket-near-recycle-logo_23-2147852635]]></image:title>
-			<image:caption><![CDATA[kitchen waste recycle to compost]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/compost-bin.png</image:loc>
-			<image:caption><![CDATA[compost bin]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/face-mask.png</image:loc>
-			<image:caption><![CDATA[face mask]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/blender.png</image:loc>
-			<image:caption><![CDATA[blender]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/shovel.png</image:loc>
-			<image:caption><![CDATA[shovel]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/bin.png</image:loc>
-			<image:caption><![CDATA[bin]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://forgottenhealth.info/4-inexpensive-healthy-regional-indian-cooking-oil/</loc>
-		<lastmod>2021-01-18T09:52:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/coconut-oil-glass-bottle_176474-5434.jpg</image:loc>
-			<image:title><![CDATA[coconut-oil-glass-bottle_176474-5434]]></image:title>
-			<image:caption><![CDATA[coconut cooking oil]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/trans-fat.png</image:loc>
-			<image:caption><![CDATA[trans fat]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/10/refined_oil_nutritional_information.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/10/MapChart_Map-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://forgottenhealth.info/natural-biodegradable-and-non-toxic-dish-wash-liquid-gel/</loc>
-		<lastmod>2021-01-18T09:58:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/close-up-folded-clean-towels-with-softner_23-2148230610.jpg</image:loc>
-			<image:title><![CDATA[close-up-folded-clean-towels-with-softner_23-2148230610]]></image:title>
-			<image:caption><![CDATA[natural dish wash, laundry and toilet cleanser]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/chemicals.png</image:loc>
-			<image:caption><![CDATA[toxic chemicals]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/biodegradable.png</image:loc>
-			<image:caption><![CDATA[biodegradable]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/10/the_better_home_logo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/10/herbal_strategi_logo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/10/bubblenut_wash_logo_edited.png</image:loc>
-		</image:image>
+		<lastmod>2021-02-16T14:42:02+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://forgottenhealth.info/healthy-safe-non-toxic-cookware-material/</loc>
-		<lastmod>2021-01-18T10:06:19+00:00</lastmod>
+		<lastmod>2021-02-16T13:06:40+00:00</lastmod>
 		<image:image>
 			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/steel-skimmer-front-old-jug-wooden-table_23-2147841030.jpg</image:loc>
 			<image:title><![CDATA[steel-skimmer-front-old-jug-wooden-table_23-2147841030]]></image:title>
@@ -115,8 +41,83 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://forgottenhealth.info/natural-biodegradable-and-non-toxic-dish-wash-liquid-gel/</loc>
+		<lastmod>2021-02-16T13:13:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/close-up-folded-clean-towels-with-softner_23-2148230610.jpg</image:loc>
+			<image:title><![CDATA[close-up-folded-clean-towels-with-softner_23-2148230610]]></image:title>
+			<image:caption><![CDATA[natural dish wash, laundry and toilet cleanser]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/chemicals.png</image:loc>
+			<image:caption><![CDATA[toxic chemicals]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/biodegradable.png</image:loc>
+			<image:caption><![CDATA[biodegradable]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/10/the_better_home_logo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/10/herbal_strategi_logo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/10/bubblenut_wash_logo_edited.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://forgottenhealth.info/4-inexpensive-healthy-regional-indian-cooking-oil/</loc>
+		<lastmod>2021-02-16T13:40:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/coconut-oil-glass-bottle_176474-5434.jpg</image:loc>
+			<image:title><![CDATA[coconut-oil-glass-bottle_176474-5434]]></image:title>
+			<image:caption><![CDATA[coconut cooking oil]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/trans-fat.png</image:loc>
+			<image:caption><![CDATA[trans fat]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/10/refined_oil_nutritional_information.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/map-chart-regional-oil-usage.png</image:loc>
+			<image:caption><![CDATA[map chart regional oil usage]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://forgottenhealth.info/prepare-compost-from-kitchen-waste-within-week/</loc>
+		<lastmod>2021-02-16T13:44:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/organic-trash-basket-near-recycle-logo_23-2147852635.jpg</image:loc>
+			<image:title><![CDATA[organic-trash-basket-near-recycle-logo_23-2147852635]]></image:title>
+			<image:caption><![CDATA[kitchen waste recycle to compost]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/compost-bin.png</image:loc>
+			<image:caption><![CDATA[compost bin]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/face-mask.png</image:loc>
+			<image:caption><![CDATA[face mask]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/blender.png</image:loc>
+			<image:caption><![CDATA[blender]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/shovel.png</image:loc>
+			<image:caption><![CDATA[shovel]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2020/11/bin.png</image:loc>
+			<image:caption><![CDATA[bin]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://forgottenhealth.info/5-factors-to-help-you-decide-what-type-of-water-purifier-do-i-need/</loc>
-		<lastmod>2021-02-12T18:11:21+00:00</lastmod>
+		<lastmod>2021-02-16T14:03:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/glass-water-macro-shot_53876-65290.jpg</image:loc>
 			<image:caption><![CDATA[glass of purified water]]></image:caption>
@@ -126,16 +127,40 @@
 			<image:caption><![CDATA[WHO TDS level chart]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/sterilization_UV.png</image:loc>
-			<image:caption><![CDATA[UV membrane]]></image:caption>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/uv-shield.png</image:loc>
+			<image:caption><![CDATA[uv shield]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/filter.png</image:loc>
-			<image:caption><![CDATA[uf filter membrane]]></image:caption>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/water-filter.png</image:loc>
+			<image:caption><![CDATA[water filter membrane]]></image:caption>
 		</image:image>
 		<image:image>
 			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/ultrafiltration_chart.png</image:loc>
 			<image:caption><![CDATA[ultrafiltration chart]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://forgottenhealth.info/elliptical-cross-trainer-no-impact-full-body-workout/</loc>
+		<lastmod>2021-02-16T14:42:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/cute-little-boy-training-together-with-mother.jpg</image:loc>
+			<image:title><![CDATA[cute-little-boy-training-together-with-mother]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/walk.png</image:loc>
+			<image:caption><![CDATA[walk]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/workout.png</image:loc>
+			<image:caption><![CDATA[workout]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/strength.png</image:loc>
+			<image:caption><![CDATA[strength]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://forgottenhealth.info/wp-content/uploads/2021/02/fun.png</image:loc>
+			<image:caption><![CDATA[fun]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
